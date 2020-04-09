@@ -52,24 +52,13 @@ blockquote
 	border-right-width: 5px;
 }
 
-a {
-	color: #00f;
+a
+{
+	color: #0782C1;
 }
 
-table {
-	border-collapse: collapse;
-}
-
-.table-striped tbody tr:nth-child(odd) {
-  background-color: #fff;
-}
-
-.table-striped tbody tr:nth-child(even) {
-	background-color: #eee;
-}
-
-
-ol,ul,dl {
+ol,ul,dl
+{
 	/* IE7: reset rtl list margin. (#7334) */
 	*margin-right: 0px;
 	/* Preserved spaces for list items with text direction different than the list. (#6249,#8049)*/
